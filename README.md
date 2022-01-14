@@ -3,13 +3,13 @@ Un blog increíble para el[ curso de Git y Github]
 > Uno debe de pedir disculpas no permiso
 > - Thebetoben
 
-## En este curso vemos de todo
+## En este increible trabajo hago de todo para que me agarren el cv
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
-* Creado por el increíble Platzi Team
+* Trucos sacados de tutoriales a 420
+* Las personalidades múltiples segun la hora del dia
+* Creado por Yorhan
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
