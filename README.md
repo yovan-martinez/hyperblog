@@ -12,5 +12,6 @@ Un blog increíble para el[ curso de Git y Github]
 * Creado por Yorhan
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+* Aveces me asusta la precision de la IA de instagram
 
 Y como un amable recordatorio: Tomar 5 litros de agua al dia
